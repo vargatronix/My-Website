@@ -1,0 +1,36 @@
+
+
+
+/****************************************Header************************************************/
+
+header {
+	position: absolute;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
+
+
+
+header a {
+	color: silver;
+	margin-left: 16px;
+}
+header a:visited {
+	color: black;
+}
+
+/*************************************Hero Section******************************************/
+
+#hero-section {
+	background-image: url(../img/hero.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+
+
